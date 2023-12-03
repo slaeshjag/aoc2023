@@ -1,3 +1,4 @@
 all:
-	$(CC) -Wall -O3 day1.c -o day1.elf 
-	$(CC) -Wall -O3 day2.c -o day2.elf 
+	$(CC) -Wall -O3 day01.c -o day01.elf 
+	$(CC) -Wall -O3 day02.c -o day02.elf 
+	$(CC) -Wall -O3 day03.c -o day03.elf 
